@@ -2,7 +2,7 @@
 
 int main() {
 
-	// Hello World! Ãâ·Â
+	// Hello World! ì¶œë ¥
 	printf("Hello World!");
 
 	return 0;

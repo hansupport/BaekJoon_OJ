@@ -3,13 +3,13 @@
 
 int main() {
 
-	// µÎ Á¤¼ö A¿Í B
+	// ë‘ ì •ìˆ˜ Aì™€ B
 	int A, B;
 
-	// A¿Í B ÀÔ·Â
+	// Aì™€ B ì…ë ¥
 	scanf("%d %d", &A, &B);
 
-	// A+B, A-B, A*B, A/B(¸ò), A%B(³ª¸ÓÁö)¸¦ Ãâ·Â
+	// A+B, A-B, A*B, A/B(ëª«), A%B(ë‚˜ë¨¸ì§€)ë¥¼ ì¶œë ¥
 	printf("%d\n", A + B);
 	printf("%d\n", A - B);
 	printf("%d\n", A * B);
